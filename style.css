@@ -105,9 +105,9 @@ h1 {
   font-size: 50px;
   color: white;
   text-shadow: 3px 3px red;
-  position: absolute;
+  /* position: absolute;
   left: 50%;
-  transform: rotate(-50%);
+  transform: rotate(-50%); */
 }
 
 @media (max-width: 500px) {
